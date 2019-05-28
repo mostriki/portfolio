@@ -23,6 +23,7 @@ h3 {
     line-height:1.2;
 }
 
-.education {
+.education,
+.experience {
     white-space: pre-line;
 }
